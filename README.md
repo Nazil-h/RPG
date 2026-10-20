@@ -1,4 +1,4 @@
-# ⚔️ When YH Jago CPP — Console RPG
+# ⚔️ When YH Jago CPP — RPG
 
 Game RPG berbasis teks (terminal) yang ditulis dalam **C++**, menampilkan sistem pertarungan turn-based dengan 3 pilihan karakter, skill unik, inventory, dan 3 gelombang musuh yang semakin kuat.
 
@@ -104,4 +104,4 @@ Inventory
 
 ## 👤 Author
 
-> *"When YH Jago CPP"*
+> *"Hiqanz"*
